@@ -2,6 +2,12 @@
 
 Calculating of the weight of the user in different planets such as pluto, mars and venus.
 
+
+## screenshot 
+![](screenshots/planet.jpeg)
+![](screenshots/planet2.jpeg)
+![](screenshots/planet3.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
