@@ -3,10 +3,9 @@
 Calculating of the weight of the user in different planets such as pluto, mars and venus.
 
 
-## screenshot 
-![](screenshots/planet.jpeg)
-![](screenshots/planet2.jpeg)
-![](screenshots/planet3.jpeg)
+## screenshot
+<img src ="screenshots/planet.jpeg" width"50">
+
 
 ## Getting Started
 
