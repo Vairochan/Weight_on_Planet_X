@@ -4,7 +4,9 @@ Calculating of the weight of the user in different planets such as pluto, mars a
 
 
 ## screenshot
-<img src ="screenshots/planet.jpeg" width"50">
+<img src="screenshots/planet.jpeg" width="250">
+<img src="screenshots/planet2.jpeg" width="250">
+<img src="screenshots/planet3.jpeg" width="250">
 
 
 ## Getting Started
